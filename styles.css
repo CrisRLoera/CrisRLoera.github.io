@@ -1,0 +1,21 @@
+#profile-sidenav {
+    background-color: rgb(181, 181, 244);
+    position: fixed;
+    height: 100%;
+    width: 150px;
+
+
+}
+
+#personal-content {
+    margin-left: 160px;
+    background-color: rgb(253, 226, 206);
+}
+
+#profile-sidenav p {
+    height: 170px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
